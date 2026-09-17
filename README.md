@@ -213,3 +213,6 @@ HandBrake is offered as a **complete free version**, providing all features and 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 Ready to transform your video experience? **Download HandBrake now and start converting your videos for free!**
+
+---
+**Last updated:** 2026-09-17 17:46:26 UTC
